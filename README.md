@@ -1,2 +1,23 @@
-# Python-Introduction-Tutorial
-This project is designed to give a tutorial on how to install and run a simple program with python.
+# Tutorial: Getting Started with Python
+
+- **Author:** [Christopher Chandler]
+- **Last Updated:** [12/8/23]
+
+## Summary
+
+This tutorial aims to guide beginners through the process of installing Python on their system and running a simple "Hello, World!" program. It provides step-by-step instructions to set up Python and execute a basic Python script.
+
+## Target Audience
+
+This tutorial is designed for absolute beginners who have little to no experience with Python programming. It's ideal for individuals looking to start their journey in programming with Python.
+
+---
+
+## Tutorial Content
+
+### Table of Contents
+
+1. [Introduction](#introduction)
+2. [Installing Python](#installing-python)
+3. [Running a Python Program](#running-a-python-program)
+4. [Conclusion](#conclusion)
