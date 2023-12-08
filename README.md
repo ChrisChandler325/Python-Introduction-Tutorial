@@ -17,7 +17,7 @@ This tutorial is designed for absolute beginners who have little to no experienc
 
 ### Table of Contents
 
-1. [Introduction to Python](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Introduction.md)
+1. [Introduction to Python](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Introduction)
 2. [Installing Python](#installing-python)
 3. [Running a Python Program](#running-a-python-program)
 4. [Conclusion](#conclusion)
