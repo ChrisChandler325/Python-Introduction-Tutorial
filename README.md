@@ -9,7 +9,7 @@ After learning about and understanding what goes on "under the hood" of a comput
 
 ## Target Audience
 
-This tutorial is designed for absolute beginners who have little to no experience with Python programming. It's ideal for individuals looking to start their journey in programming with Python.
+This tutorial is designed for those who have learned through the INFOTC 1600 the basics on how a computer operates, and are wanting to learn how to be able to use this knowledge to create code. This tutorial will help absolute beginners who have little to no experience with Python programming. It's ideal for individuals looking to start their journey in programming with Python after learning about digital media in INFOTC 1600.
 
 ---
 
