@@ -5,7 +5,7 @@
 
 ## Summary
 
-This tutorial aims to guide beginners through the process of installing Python on their system and running a simple "Hello, World!" program. It provides step-by-step instructions to set up Python and execute a basic Python script.
+After learning about and understanding what goes on "under the hood" of a computer, this tutorial can be an introduction to how all of these mechanics work in an upper OSI layer by creating your first code. This tutorial aims to guide beginners through the process of installing Python on their system and running a simple "Hello, World!" program. It provides step-by-step instructions to set up Python and execute a basic Python script.
 
 ## Target Audience
 
