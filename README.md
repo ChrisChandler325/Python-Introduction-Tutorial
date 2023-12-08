@@ -21,4 +21,4 @@ This tutorial is designed for those who have learned through the INFOTC 1600 the
 2. [Installing Python](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Installing%20Python)
 3. [Running a Python Program](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/First%20Python%20Script)
 4. [Additional Resources](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Additional%20Resources)
-5. [Conclusion](#conclusion)
+5. [Conclusion]([#conclusion](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Conclusion)https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Conclusion)
