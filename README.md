@@ -1,7 +1,7 @@
 # Tutorial: Getting Started with Python
 
-- **Author:** [Christopher Chandler]
-- **Last Updated:** [12/8/23]
+- **Author:** Christopher Chandler
+- **Last Updated:** 12/8/23
 
 ## Summary
 
