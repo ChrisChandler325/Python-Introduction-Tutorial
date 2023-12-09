@@ -25,4 +25,4 @@
 4. Open up the IDLE application.
 
 ---
-To write your first script [Click Here]()
+To write your first script [Click Here](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/First%20Python%20Script.md)
