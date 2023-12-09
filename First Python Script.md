@@ -17,7 +17,8 @@ Congratulations you just ran your first python script!
 
 ---
 ## Linux
-1. Once you are in python by typing in python in the command line type print("Hello World!")
+1. Once you are in python by typing in python in the command line
+2. Type print("Hello World!") and press Enter on your keyboard
 Congratulations you just ran your first python script!
 
 ---
