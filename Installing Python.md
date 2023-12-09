@@ -1,8 +1,8 @@
 # Installing Python
 ## Operating Systems
-1. [Windows]
-2. [Linux]
-3. [Mac OS]
+1. [Windows](#Windows)
+2. [Linux](#Linux)
+3. [Mac OS](#Mac OS)
 
 ---
 
@@ -16,4 +16,7 @@
 1. Open up Terminal and type in "sudo apt install python3"
 2. You may need to type in your Linux password
 3. Type "sudo apt install python3-pip" and type "y" when prompted.
-4. Type cat "Enter file name here" 
+4. Type "python3"
+
+## Mac OS
+
