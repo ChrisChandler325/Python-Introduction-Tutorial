@@ -25,4 +25,4 @@
 4. Open up the IDLE application.
 
 ---
-To write your first script Click Here
+To write your first script [Click Here]()
