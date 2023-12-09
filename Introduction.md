@@ -8,4 +8,4 @@
 - It can be used for various different reasons from web development, AI, Automation, all the way to creating video games and much more.
 
 Here is how to take your first steps in coding in python:
-[Installing Python](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Installing%20Python)
+[Installing Python](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Installing%20Python.md)
