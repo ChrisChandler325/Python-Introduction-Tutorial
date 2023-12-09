@@ -31,4 +31,4 @@ Congratulations you just ran your first python script!
 
 ---
 ## Additional Resources
-Here are some quick resources to help you get started coding in python: [Click Here]()
+Here are some quick resources to help you get started coding in python: [Click Here](https://github.com/ChrisChandler325/Python-Introduction-Tutorial/blob/main/Additional%20Resources.md)
